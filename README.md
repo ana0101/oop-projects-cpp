@@ -1,0 +1,1 @@
+This repo contains my projects for the c++ oop class from uni: classes, inheritance, polymorphism, virtual, singleton, templates
